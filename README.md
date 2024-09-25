@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building the best team to help me create the most useful public safety collaboration platform @ Zonehaven.
-- 🌱 I’m currently learning speed reading and machine learning.
-- 👯 I’m looking to collaborate on fire modeling.
-- 🤔 I’m looking for help with keeping skunks out of my backyard.
-- 💬 Ask me about ...
-- 📫 How to reach me: @alanwill on Twitter
+- 🌱 TIL: Prompt engineering is very similar to training for newbies. Clarity, context, brevity, and even repetition all matter.
+- 🏗️ Currently building an AI-powered, distributed, IaC security auto-remediation service.
+- ☕ Ask me about espresso making, my latest hobby.
+- 📫 How to reach me: @alanwill on X or @alanwill on LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The best apple pie can be found at Apple Barn in Avery, California. Now you know.
+- ⚡ Favorite quote: "Discomfort is the price of admission to a meaningful life” by Susan David, Ph.D
